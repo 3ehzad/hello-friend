@@ -1,5 +1,5 @@
 {
-    "name": "hello, friend",
+    "name": "Hello/ Braiins",
     "description": "Dark terminal-esque new tab page with your bookmarks",
     "permissions": ["bookmarks"],
     "icons": {
@@ -7,7 +7,7 @@
         "48": "icons/48.png",
         "128": "icons/128.png"
     },
-    "version": "0.12",
+    "version": "0.1",
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
