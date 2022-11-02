@@ -12,7 +12,7 @@
 
 Clone the source
 
-    git clone git@github.com:jaywick/hello-friend.git
+    git clone https://github.com/3ehzad/hello-friend.git
 
 Firefox
 
