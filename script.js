@@ -67,6 +67,9 @@ const addBookmark = (column, node, path = []) => {
 document.addEventListener("DOMContentLoaded", () => {
     document.body.style.background = options.BACKGROUND;
     document.getElementById("welcome").style.color = options.TITLE_COLOR;
+    var images = ['bg1.png', 'bg2.jpg', 'bg3.jpg', 'bg4.png', 'bg5.jpg'];
+    document.body.style.backgroundImage = 'url(' + images[Math.floor(Math.random() * images.length)] + ')';
+
 });
 
 // notify firefox users to set their home page
