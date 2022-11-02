@@ -3,7 +3,7 @@
 ![Screenshot preview of the hello-friend extension on a new tab](./PREVIEW.png)
 
 ## Notes
-
+ 
 -   In Firefox you'll have to manually set the home page.
     -   Check the console for the URL in a new hello-friend tab
 -   In Chrome remove the `applications` object in the `manifest.json` this is Firefox only
