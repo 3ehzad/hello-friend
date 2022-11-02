@@ -1,6 +1,6 @@
 ## Preview
 
-![Screenshot preview of the hello-friend extension on a new tab](./PREVIEW.png)
+![Screenshot preview of the hello-friend extension on a new tab](./_preview.png)
 
 ## Notes
  
