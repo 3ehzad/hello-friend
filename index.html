@@ -12,6 +12,7 @@
         <style>
             body {
                 background-size: 100vw 100vh !important;
+                background-repeat: no-repeat !important;
                 color: white;
                 margin: 0;
                 font-family: monospace;
@@ -71,11 +72,25 @@
                 justify-self: center;
                 grid-area: 1;
             }
+            div#cz {
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                color: #3a3a3a;
+            }
+            div#us {
+                position: absolute;
+                top: 20px;
+                right: 140px;
+                color: #3a3a3a;
+            }
         </style>
     </head>
 
     <body>
         <h1 id="welcome"></h1>
         <div id="container"></div>
+        <div id="cz"></div>
+        <div id="us"></div>
     </body>
 </html>
